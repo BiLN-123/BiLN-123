@@ -3,7 +3,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2000&pause=1000&center=&vCenter=&random=&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Ngoc+Le.+%F0%9F%A9%B5;You+can+call+me+BiLN!+%E2%98%98%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
-============================================================================================================================
 
 Developer
 ---------
@@ -51,10 +50,14 @@ I am still learning a lot of new knowledge and new languages. I started learning
 ### Socials
 
 <p align="left"> <a href="https://codesandbox.io/u/biln-123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/BiLN-123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/billlln" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@billlln" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<br/>
+<hr/>
 
 ### Badges
+<br/>
 
 <b>My GitHub Stats</b>
+<br/>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=BiLN-123&count_private=true&theme=react&border_radius=10&card_height=205" alt="streak stats"/>
@@ -62,8 +65,8 @@ I am still learning a lot of new knowledge and new languages. I started learning
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiLN-123&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <br/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
