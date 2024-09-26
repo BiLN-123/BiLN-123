@@ -60,7 +60,14 @@ I am still learning a lot of new knowledge and new languages. I started learning
 
 <a href="https://github.com/BiLN-123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiLN-123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+<br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BiLN-123/BiLN-123/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
